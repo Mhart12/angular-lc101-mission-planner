@@ -1,4 +1,10 @@
 .box {
     display: flex;
     padding: 10px;
+    font-family: "Comic Sans MS";
+    /* background-color: coral; */
+    background-image: url(/assets/Mars.jpg);
  }
+ /* .header-img {
+    background-image: url(/assets/Mars.jpg);
+ } */
